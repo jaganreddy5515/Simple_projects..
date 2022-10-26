@@ -243,30 +243,7 @@ def main_menu():
     else:
         print("Invalid choice..\n ")
         main_menu()
-# main_menu()
 
-
-# def categories():
-#     print("\n")
-#     print('*_'*50)
-#     print("\nSelect Categories\n")
-#     cate=int(input("3.Dishes\n4.View cart\n5.Exit\n"))
-#     if(cate==1):
-#         pass
-#     elif(cate==2):
-#         pass
-#     elif(cate==3):
-#         main_menu()
-#     elif(cate==4):
-#         cart1()
-#     elif(cate==5):
-#         Break
-#     else:
-#         print('\nInvalid input..\n')
-#         categories()
-
-# def clothing():
-#     print('-'*30)
         
 
 
